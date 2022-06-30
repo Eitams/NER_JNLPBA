@@ -17,7 +17,8 @@ JNLPBA
 The BioNLP / JNLPBA Shared Task 2004 involves the identification and classification of technical terms referring to concepts of interest to biologists in the domain of molecular biology. The task was organized by GENIA Project based on the annotations of the GENIA Term corpus (version 3.02). Corpus format: The JNLPBA corpus is distributed in IOB format, with each line containing a single token and its tag, separated by a tab character. Sentences are separated by blank lines.
 
 ## Results
-![image](https://user-images.githubusercontent.com/62335786/176397231-8b73ead5-93b0-45fe-998c-d2851d7a5e99.png)
+![image](https://user-images.githubusercontent.com/62335786/176397231-8b73ead5-93b0-45fe-998c-d2851d7a5e99.png)  
+Transfer learning model:  
 ![image](https://user-images.githubusercontent.com/62335786/176397679-1ca8f994-f63c-4934-b1c1-bfd8fc7bc321.png)
 
 
