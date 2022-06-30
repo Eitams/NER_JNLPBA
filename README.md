@@ -1,7 +1,7 @@
 # Name Entity Recognition using Deep learning and transfer learning methods
 
 In this notebook we created several name entity recognition models to identitfy technical terms referring to concepts of interest to biologists in the domain of molecular biology.
-Terms and their classification:
+Terms and their classification:  
 'O': 0, 'B-protein': 1, 'I-protein': 2, 'B-cell_type': 3, 'I-cell_type': 4, 'B-cell_line': 5, 'I-cell_line': 6, 'B-DNA': 7, 'I-DNA': 8, 'B-RNA': 9, 'I-RNA': 10
 
 The data set we use to train the models is the JNLPBA dataset:
